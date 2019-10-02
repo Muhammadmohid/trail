@@ -1,0 +1,27 @@
+.navbar-nav .nav-link {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+}
+
+header div ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ header div ul li
+{
+    float:left;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+#body-radius
+{
+    border-radius: 60% 60% 60% 60%/ 22% 22% 22% 22%;
+}
+
+
+
